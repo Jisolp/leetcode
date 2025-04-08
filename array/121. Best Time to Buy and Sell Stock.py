@@ -14,3 +14,4 @@ class Solution:
             else:
                 left = right 
                 right = left + 1
+        return maxProfit
